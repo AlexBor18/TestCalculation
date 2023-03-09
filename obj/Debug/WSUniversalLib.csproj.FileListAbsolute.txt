@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
+C:\Users\Alex\Desktop\Уч. практика\Тестированаие\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
